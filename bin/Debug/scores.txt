@@ -1,0 +1,4 @@
+buse:30:1
+busenur:50:1
+busenrur:240:2
+yavuz:440:3

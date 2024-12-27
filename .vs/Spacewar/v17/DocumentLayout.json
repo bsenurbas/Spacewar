@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|c:\\users\\bsenu\\onedrive\\masa\u00FCst\u00FC\\dersler\\5.d\u00F6nem\\yzm209 programlama laboratuvar\u0131 3\\spacewar\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|c:\\users\\bsenu\\onedrive\\masa\u00FCst\u00FC\\dersler\\5.d\u00F6nem\\yzm209 programlama laboratuvar\u0131 3\\spacewar\\collecsiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|solutionrelative:collecsiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|c:\\users\\bsenu\\onedrive\\masa\u00FCst\u00FC\\dersler\\5.d\u00F6nem\\yzm209 programlama laboratuvar\u0131 3\\spacewar\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|solutionrelative:bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|c:\\users\\bsenu\\onedrive\\masa\u00FCst\u00FC\\dersler\\5.d\u00F6nem\\yzm209 programlama laboratuvar\u0131 3\\spacewar\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|solutionrelative:enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|c:\\users\\bsenu\\onedrive\\masa\u00FCst\u00FC\\dersler\\5.d\u00F6nem\\yzm209 programlama laboratuvar\u0131 3\\spacewar\\strongenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|solutionrelative:strongenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|c:\\users\\bsenu\\onedrive\\masa\u00FCst\u00FC\\dersler\\5.d\u00F6nem\\yzm209 programlama laboratuvar\u0131 3\\spacewar\\fastenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|solutionrelative:fastenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|c:\\users\\bsenu\\onedrive\\masa\u00FCst\u00FC\\dersler\\5.d\u00F6nem\\yzm209 programlama laboratuvar\u0131 3\\spacewar\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|solutionrelative:basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|c:\\users\\bsenu\\onedrive\\masa\u00FCst\u00FC\\dersler\\5.d\u00F6nem\\yzm209 programlama laboratuvar\u0131 3\\spacewar\\spaceshipcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA32143-FE20-4737-AFCE-1AEC7D61B740}|Spacewar.csproj|solutionrelative:spaceshipcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 377,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 23,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollecsionDetector.cs",
+              "DocumentMoniker": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\CollecsionDetector.cs",
+              "RelativeDocumentMoniker": "CollecsionDetector.cs",
+              "ToolTip": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\CollecsionDetector.cs",
+              "RelativeToolTip": "CollecsionDetector.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:48:42.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\Bullet.cs",
+              "RelativeDocumentMoniker": "Bullet.cs",
+              "ToolTip": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\Bullet.cs",
+              "RelativeToolTip": "Bullet.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:48:08.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\EnemyFactory.cs",
+              "RelativeDocumentMoniker": "EnemyFactory.cs",
+              "ToolTip": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\EnemyFactory.cs",
+              "RelativeToolTip": "EnemyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:42:33.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StrongEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\StrongEnemy.cs",
+              "RelativeDocumentMoniker": "StrongEnemy.cs",
+              "ToolTip": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\StrongEnemy.cs",
+              "RelativeToolTip": "StrongEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:42:26.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FastEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\FastEnemy.cs",
+              "RelativeDocumentMoniker": "FastEnemy.cs",
+              "ToolTip": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\FastEnemy.cs",
+              "RelativeToolTip": "FastEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:42:22.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasicEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\BasicEnemy.cs",
+              "RelativeDocumentMoniker": "BasicEnemy.cs",
+              "ToolTip": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\BasicEnemy.cs",
+              "RelativeToolTip": "BasicEnemy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:42:08.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Spaceshipcs.cs",
+              "DocumentMoniker": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\Spaceshipcs.cs",
+              "RelativeDocumentMoniker": "Spaceshipcs.cs",
+              "ToolTip": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\Spaceshipcs.cs",
+              "RelativeToolTip": "Spaceshipcs.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:33:50.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\bsenu\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\5.D\u00F6nem\\YZM209 Programlama Laboratuvar\u0131 3\\Spacewar\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:32:09.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
