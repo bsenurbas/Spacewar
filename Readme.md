@@ -53,15 +53,6 @@ A fast-paced arcade shooter game built with C# and Windows Forms. Players contro
 
 ---
 
-## Screenshots
-### Gameplay
-![Gameplay](https://via.placeholder.com/800x400?text=Gameplay)
-
-### Score Screen
-![Score Screen](https://via.placeholder.com/800x400?text=Score+Screen)
-
----
-
 ## Contribution
 1. Fork this repository.
 2. Make your changes and test thoroughly.
