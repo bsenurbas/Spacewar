@@ -65,7 +65,4 @@ A fast-paced arcade shooter game built with C# and Windows Forms. Players contro
 - Introduce additional enemy types.
 - Implement a leaderboard system.
 
----
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
